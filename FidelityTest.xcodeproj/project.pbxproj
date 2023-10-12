@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CD29377D2AD7138D0079C309 /* Notes.txt in Resources */ = {isa = PBXBuildFile; fileRef = CD29377C2AD7138D0079C309 /* Notes.txt */; };
 		CDC244772ABCD15900EAE145 /* FidelityTestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDC244762ABCD15900EAE145 /* FidelityTestApp.swift */; };
 		CDC244792ABCD15900EAE145 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDC244782ABCD15900EAE145 /* ContentView.swift */; };
 		CDC2447B2ABCD15B00EAE145 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CDC2447A2ABCD15B00EAE145 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CD29377C2AD7138D0079C309 /* Notes.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = Notes.txt; sourceTree = "<group>"; };
 		CDC244732ABCD15900EAE145 /* FidelityTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FidelityTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDC244762ABCD15900EAE145 /* FidelityTestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FidelityTestApp.swift; sourceTree = "<group>"; };
 		CDC244782ABCD15900EAE145 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -35,6 +37,7 @@
 		CDC2446A2ABCD15900EAE145 = {
 			isa = PBXGroup;
 			children = (
+				CD29377C2AD7138D0079C309 /* Notes.txt */,
 				CDC244752ABCD15900EAE145 /* FidelityTest */,
 				CDC244742ABCD15900EAE145 /* Products */,
 			);
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CDC2447E2ABCD15B00EAE145 /* Preview Assets.xcassets in Resources */,
+				CD29377D2AD7138D0079C309 /* Notes.txt in Resources */,
 				CDC2447B2ABCD15B00EAE145 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D3D282A3-7517-47D9-AFAB-29314CABEF45"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0326BAFB-B11E-4241-8708-BECA31F9CF72"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FidelityTest/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "loadData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0326BAFB-B11E-4241-8708-BECA31F9CF72 - 3ea7a7d0f887816f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for FidelityTest.ContentView.loadData() async -&gt; ()"
+                  moduleName = "FidelityTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mpi/projects/FidelityTest/FidelityTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "0326BAFB-B11E-4241-8708-BECA31F9CF72 - f597e403e1bc3452"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for FidelityTest.ContentView.loadData() async -&gt; ()"
+                  moduleName = "FidelityTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mpi/projects/FidelityTest/FidelityTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "0326BAFB-B11E-4241-8708-BECA31F9CF72 - 883cb1053b9a7761"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FidelityTest.ContentView.loadData() async -&gt; ()"
+                  moduleName = "FidelityTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mpi/projects/FidelityTest/FidelityTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "110">
+               </Location>
+               <Location
+                  uuid = "0326BAFB-B11E-4241-8708-BECA31F9CF72 - 5f713a6cdbe88062"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for FidelityTest.ContentView.loadData() async -&gt; ()"
+                  moduleName = "FidelityTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mpi/projects/FidelityTest/FidelityTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "42">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6FA36914-BAD7-404C-AAC0-411BDD3F1F5B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FidelityTest/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "loadData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6FA36914-BAD7-404C-AAC0-411BDD3F1F5B - 883cb1053b9a49b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FidelityTest.ContentView.loadData() async -&gt; ()"
+                  moduleName = "FidelityTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mpi/projects/FidelityTest/FidelityTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "685">
+               </Location>
+               <Location
+                  uuid = "6FA36914-BAD7-404C-AAC0-411BDD3F1F5B - 883cb1053b9a49b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FidelityTest.ContentView.loadData() async -&gt; ()"
+                  moduleName = "FidelityTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mpi/projects/FidelityTest/FidelityTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "442">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D824D672-9E32-49DC-9E54-C5435CF088F6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FidelityTest/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "loadData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D824D672-9E32-49DC-9E54-C5435CF088F6 - 883cb1053b9a4992"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FidelityTest.ContentView.loadData() async -&gt; ()"
+                  moduleName = "FidelityTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mpi/projects/FidelityTest/FidelityTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "879">
+               </Location>
+               <Location
+                  uuid = "D824D672-9E32-49DC-9E54-C5435CF088F6 - 883cb1053b9a4992"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FidelityTest.ContentView.loadData() async -&gt; ()"
+                  moduleName = "FidelityTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mpi/projects/FidelityTest/FidelityTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "621">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F61D4B8-2D7E-43ED-AE2E-5833A1EEB1E0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FidelityTest/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "1F61D4B8-2D7E-43ED-AE2E-5833A1EEB1E0 - 849a358d166705f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in FidelityTest.ContentView.body.getter : some"
+                  moduleName = "FidelityTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mpi/projects/FidelityTest/FidelityTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "247">
+               </Location>
+               <Location
+                  uuid = "1F61D4B8-2D7E-43ED-AE2E-5833A1EEB1E0 - 872ba6991b6e882"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (FidelityTest.ContentView.Results) -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text)&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in FidelityTest.ContentView.body.getter : some"
+                  moduleName = "FidelityTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mpi/projects/FidelityTest/FidelityTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "103">
+               </Location>
+               <Location
+                  uuid = "1F61D4B8-2D7E-43ED-AE2E-5833A1EEB1E0 - 849a358d166705dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in FidelityTest.ContentView.body.getter : some"
+                  moduleName = "FidelityTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mpi/projects/FidelityTest/FidelityTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "247">
+               </Location>
+               <Location
+                  uuid = "1F61D4B8-2D7E-43ED-AE2E-5833A1EEB1E0 - 872ba6991b6e8e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (FidelityTest.ContentView.Results) -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text)&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in FidelityTest.ContentView.body.getter : some"
+                  moduleName = "FidelityTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mpi/projects/FidelityTest/FidelityTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "103">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DFC4E31A-D857-4163-B6C2-043CC899A329"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FidelityTest/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "DFC4E31A-D857-4163-B6C2-043CC899A329 - 872ba6991b6e882"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (FidelityTest.ContentView.Results) -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text)&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in FidelityTest.ContentView.body.getter : some"
+                  moduleName = "FidelityTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mpi/projects/FidelityTest/FidelityTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "103">
+               </Location>
+               <Location
+                  uuid = "DFC4E31A-D857-4163-B6C2-043CC899A329 - b9000d7e8345e899"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text)&gt; in closure #1 (FidelityTest.ContentView.Results) -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text)&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in FidelityTest.ContentView.body.getter : some"
+                  moduleName = "FidelityTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mpi/projects/FidelityTest/FidelityTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "62">
+               </Location>
+               <Location
+                  uuid = "DFC4E31A-D857-4163-B6C2-043CC899A329 - 872ba6991b6e8e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (FidelityTest.ContentView.Results) -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text)&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in FidelityTest.ContentView.body.getter : some"
+                  moduleName = "FidelityTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mpi/projects/FidelityTest/FidelityTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "103">
+               </Location>
+               <Location
+                  uuid = "DFC4E31A-D857-4163-B6C2-043CC899A329 - b9000d7e8345e8ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text)&gt; in closure #1 (FidelityTest.ContentView.Results) -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text)&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in FidelityTest.ContentView.body.getter : some"
+                  moduleName = "FidelityTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mpi/projects/FidelityTest/FidelityTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "62">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DAA1EACE-3380-416D-BBA8-062F8A7BE4F9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FidelityTest/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "loadData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0241D37E-A707-4C2B-94A2-30EA5E059B4A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FidelityTest/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "loadData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E2B27BF4-E8A8-4E55-811B-880CE84267CB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FidelityTest/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "loadData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E2B27BF4-E8A8-4E55-811B-880CE84267CB - 3ea7a7d0f88780c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for FidelityTest.ContentView.loadData() async -&gt; ()"
+                  moduleName = "FidelityTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mpi/projects/FidelityTest/FidelityTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "529">
+               </Location>
+               <Location
+                  uuid = "E2B27BF4-E8A8-4E55-811B-880CE84267CB - 883cb1053b9a76cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FidelityTest.ContentView.loadData() async -&gt; ()"
+                  moduleName = "FidelityTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mpi/projects/FidelityTest/FidelityTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "1176">
+               </Location>
+               <Location
+                  uuid = "E2B27BF4-E8A8-4E55-811B-880CE84267CB - 5f713a6cdbe881cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for FidelityTest.ContentView.loadData() async -&gt; ()"
+                  moduleName = "FidelityTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mpi/projects/FidelityTest/FidelityTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "317">
+               </Location>
+               <Location
+                  uuid = "E2B27BF4-E8A8-4E55-811B-880CE84267CB - 5f713a6cdbe881cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for FidelityTest.ContentView.loadData() async -&gt; ()"
+                  moduleName = "FidelityTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mpi/projects/FidelityTest/FidelityTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "140">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
